@@ -1,0 +1,1 @@
+sudo pcs cluster setup --name LinuxCluster LinuxProd LinuxSyncHA LinuxConfig

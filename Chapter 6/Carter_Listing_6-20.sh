@@ -1,0 +1,1 @@
+Sudo pcs cluster status

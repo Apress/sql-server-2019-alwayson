@@ -1,0 +1,1 @@
+ALTER DATABASE Customers SET HADR OFF ;

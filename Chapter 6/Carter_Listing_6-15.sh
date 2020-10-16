@@ -1,0 +1,1 @@
+Sudo passwd hacluster

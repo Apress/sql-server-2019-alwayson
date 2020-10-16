@@ -1,0 +1,11 @@
+USE master
+GO
+
+ALTER AVAILABILITY GROUP LinuxAOAG
+ADD LISTENER 'LinuxAOListener' (
+	WITH IP (
+		(N'10.0.0.25', N'255.255.255.0')
+	)
+	, PORT=1433
+);
+GO

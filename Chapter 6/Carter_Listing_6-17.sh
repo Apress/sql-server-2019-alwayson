@@ -1,0 +1,1 @@
+sudo pcs cluster auth LinuxProd LinuxSyncHA LinuxConfig –u hacluster

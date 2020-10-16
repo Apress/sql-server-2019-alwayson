@@ -1,0 +1,1 @@
+Move-ClusterGroup -Name ALWAYSON-MSDTC-C -Node ClusterNode2

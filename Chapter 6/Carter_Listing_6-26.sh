@@ -1,0 +1,1 @@
+sudo pcs constraint order promote LinuxAOAG then start VirtualIP

@@ -1,0 +1,3 @@
+CREATE CERTIFICATE Node2Cert
+AUTHORIZATION ClusterNode2_AOAG
+FROM FILE = 'C:\Certificates\Node2Cert.cer'

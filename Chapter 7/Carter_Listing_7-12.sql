@@ -1,0 +1,15 @@
+CREATE LOGIN ClusterNode1_AOAG 
+WITH PASSWORD = 'Pa$$w0rd';
+GO
+
+CREATE USER ClusterNode1_AOAG 
+FOR LOGIN ClusterNode1_AOAG;
+GO
+
+CREATE LOGIN ClusterNode2_AOAG 
+WITH PASSWORD = 'Pa$$w0rd';
+GO
+
+CREATE USER ClusterNode2_AOAG 
+FOR LOGIN ClusterNode2_AOAG;
+GO
